@@ -1,0 +1,6 @@
+http PUT :8080/invoice \
+    id:=3 \
+    value:=3.99 \
+    biller=steam \
+    recipient=kgreulich \
+    date=2023-01-01
